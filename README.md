@@ -10,12 +10,12 @@
 - 💻 I’m currently learning Mobile Development, UI/UX Design, and Web Development.
 - 📫 Reach me on: 
 <div style="display: flex; justify-content: space-around;">
-  <a href="https://instagram.com/ardinejiv" target="_blank">
+  <a href="https://instagram.com/ardinejiv" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ardine Jivensen" />
   </a> 
 
   <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/ardinejivensen/" target="_blank">
+  <a href="https://www.linkedin.com/in/ardinejivensen/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ardine Jivensen" />
   </a>
 
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ArdineJ" />
   </a>
 </div>
-- 😄 Pronouns: He/Him
+<br>
 
 <!-- Github Status -->
 <p align="left">
