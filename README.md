@@ -9,21 +9,11 @@
 - 👨🏻‍💻 I'm currently studying in Bangkit Academy Android Development Cohort For 2023 Batch 2
 - 💻 I’m currently learning Mobile Development, UI/UX Design, and Web Development.
 - 📫 Reach me on: 
-<div style="display: flex; justify-content: space-around;">
-  <a href="https://instagram.com/ardinejiv" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ardine Jivensen" />
-  </a> 
-
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/ardinejivensen/" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ardine Jivensen" />
-  </a>
-
-  <!-- GitHub Badge -->
-  <a href="https://github.com/ArdineJ" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ArdineJ" />
-  </a>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ardinejivensen-h-2217b8134/)](https://www.linkedin.com/in/ardinejivensen/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ardinejivensen@gmail.com)](mailto:ardinejivensen@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ardinejiv/)](https://instagram.com/ardinejiv)
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/3004)](https://discordapp.com/users/3004)
+<!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FArdineJ&label=Visitors&labelColor=%23ff8a65&countColor=%23d9e3f0) -->
 <br>
 
 <!-- Github Status -->
