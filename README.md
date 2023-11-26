@@ -9,21 +9,21 @@
 - 👨🏻‍💻 I'm currently studying in Bangkit Academy Android Development Cohort For 2023 Batch 2
 - 💻 I’m currently learning Mobile Development, UI/UX Design, and Web Development.
 - 📫 Reach me on: 
-  <p align="center">
-    <a href="https://instagram.com/ardinejiv" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ardine Jivensen" />
-    </a> 
-    <br/>
-    <!-- LinkedIn Badge -->
-    <a href="https://www.linkedin.com/in/ardinejivensen/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ardine Jivensen" />
-    </a>
-    <br/>
-    <!-- GitHub Badge -->
-    <a href="https://github.com/your-github-ArdineJ" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ArdineJ" />
-    </a>
-  </p>
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://instagram.com/ardinejiv" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ardine Jivensen" />
+  </a> 
+
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/ardinejivensen/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ardine Jivensen" />
+  </a>
+
+  <!-- GitHub Badge -->
+  <a href="https://github.com/ArdineJ" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ArdineJ" />
+  </a>
+</div>
 - 😄 Pronouns: He/Him
 
 <!-- Github Status -->
