@@ -1,5 +1,7 @@
 <h3 align="left">
-  <samp>&gt; Hey there! My name is <b><a>Ardine Jivensen</a></b></samp>
+  <samp>&gt; Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+    <div> &nbsp My name is <b><a>Ardine Jivensen</a></b> </div>
+  </samp>  
 </h3>
 
 <!-- About Section -->
@@ -14,10 +16,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ardinejiv/)](https://instagram.com/ardinejiv)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/3004)](https://discordapp.com/users/3004)
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FArdineJ&label=Visitors&labelColor=%23ff8a65&countColor=%23d9e3f0) -->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 
 <!-- Github Status -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/ArdineJ">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArdineJ&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArdineJ&layout=compact&langs_count=8&theme=algolia"/>
