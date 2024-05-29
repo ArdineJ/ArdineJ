@@ -9,10 +9,10 @@
 </p>
 
 ### About me
-- 🔭 I’m currently a student in Universitas Catholic Soegijapranata Semarang.
-- 👨🏻‍💻 I'm currently studying in Bangkit Academy Android Development Cohort For 2023 Batch 2.
+- 🔭 I’m currently a student at Soegijapranata Catholic University Semarang.
+- 👨🏻‍💻 I'm an alumni of Bangkit Academy Android Development Cohort Batch 2 2023 .
 - 💻 I’m currently learning Mobile Development, UI/UX Design, and Web Development.
-- 📫 Reach me on: <br>
+- 📫 Social Media: <br>
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ardinejivensen-h-2217b8134/)](https://www.linkedin.com/in/ardinejivensen/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ardinejivensen@gmail.com)](mailto:ardinejivensen@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ardinejiv/)](https://instagram.com/ardinejiv)
@@ -20,11 +20,19 @@
 
 <br>
 
-<!-- Github Status -->
-<p align="center">
+### 📊 Stats and Activity
+
+#### 🔥 Streak Stats
+<p>
   <a href="https://github.com/ArdineJ">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArdineJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArdineJ&theme=dark&hide_border=false"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArdineJ&layout=compact&langs_count=8&theme=dark"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ArdineJ's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ArdineJ&theme=dark&hide_border=false" height="180em"/>
+  </a>
+</p>
+
+#### 💻 GitHub Profile Stats
+<p>
+  <a href="https://github.com/ArdineJ">
+    <img title="🔥 Get stats for your profile at git.io/streak-stats" alt="ArdineJ's GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArdineJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180em"/>
+    <img title="🔥 Get stats for your profile at git.io/streak-stats" alt="ArdineJ's top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArdineJ&layout=compact&langs_count=8&theme=dark" height="180em"/>   
   </a>
 </p>
